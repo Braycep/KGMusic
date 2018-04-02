@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/Braycep/Java/extLibs/json/json-lib-2.2.2-jdk15.jar!/" />
+    <libelement value="jar://D:/Braycep/Java/extLibs/json/commons-beanutils.jar!/" />
+    <libelement value="jar://D:/Braycep/Java/extLibs/json/commons-collections-3.2.jar!/" />
+    <libelement value="jar://D:/Braycep/Java/extLibs/json/commons-httpclient.jar!/" />
+    <libelement value="jar://D:/Braycep/Java/extLibs/json/commons-lang-2.5.jar!/" />
+    <libelement value="jar://D:/Braycep/Java/extLibs/json/commons-logging-1.0.4.jar!/" />
+    <libelement value="jar://D:/Braycep/Java/extLibs/json/ezmorph-1.0.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://G:/Workspace/MyEclipse2017/KGMusic/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://G:/Workspace/MyEclipse2017/KGMusic/bin" />
+    <exclude-output />
+    <content url="file://G:/Workspace/MyEclipse2017/KGMusic">
+      <sourceFolder url="file://G:/Workspace/MyEclipse2017/KGMusic/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="json-lib-2.2.2-jdk15.jar">
+        <CLASSES>
+          <root url="jar://D:/Braycep/Java/extLibs/json/json-lib-2.2.2-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils.jar">
+        <CLASSES>
+          <root url="jar://D:/Braycep/Java/extLibs/json/commons-beanutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Braycep/Java/extLibs/json/commons-collections-3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient.jar">
+        <CLASSES>
+          <root url="jar://D:/Braycep/Java/extLibs/json/commons-httpclient.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Braycep/Java/extLibs/json/commons-lang-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.0.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Braycep/Java/extLibs/json/commons-logging-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ezmorph-1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Braycep/Java/extLibs/json/ezmorph-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
